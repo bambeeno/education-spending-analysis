@@ -7,7 +7,7 @@ data/
 # Output intermedio (no versionado salvo entregables finales)
 output/*
 !output/.gitkeep
-
+!output/*.png
 # Python
 __pycache__/
 *.pyc
